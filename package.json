@@ -1,0 +1,25 @@
+{
+  "name": "dec-8",
+  "version": "1.0.0",
+  "description": "\"# C-dec-8\"",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shayan5785/C-dec-8.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shayan5785/C-dec-8/issues"
+  },
+  "homepage": "https://github.com/Shayan5785/C-dec-8#readme",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
